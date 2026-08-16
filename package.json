@@ -1,0 +1,17 @@
+{
+  "name": "backened_cwc2",
+  "version": "1.0.0",
+  "description": "a backened at chai aur code channel - youtube",
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Prashant kanwal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
